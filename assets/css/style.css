@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/Fama.jpg") top center;
   background-size: cover;
 }
 
@@ -313,30 +313,30 @@ section {
 }
 
 /*--------------------------------------------------------------
-# About
+# About Me
 --------------------------------------------------------------*/
-.about .content h3 {
+.AboutMe .content h3 {
   font-weight: 700;
   font-size: 26px;
   color: #173b6c;
 }
 
-.about .content ul {
+.AboutMe .content ul {
   list-style: none;
   padding: 0;
 }
 
-.about .content ul li {
+.AboutMe .content ul li {
   padding-bottom: 10px;
 }
 
-.about .content ul i {
+.AboutMe .content ul i {
   font-size: 20px;
   padding-right: 2px;
   color: #149ddd;
 }
 
-.about .content p:last-child {
+.AboutMe .content p:last-child {
   margin-bottom: 0;
 }
 
